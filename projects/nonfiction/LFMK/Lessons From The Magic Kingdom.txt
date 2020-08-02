@@ -1,0 +1,12 @@
+# Lessons From The Magic Kingdom
+A weird book by Chris Duffy
+
+/Forward/main.txt
+
+/Part1/main.txt
+
+/Part2/main.txt
+
+/Part3/main.txt
+
+/Onward/main.txt
