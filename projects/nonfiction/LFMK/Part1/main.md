@@ -1,7 +1,7 @@
 
-/Design.txt
+/Design.md
 
-/Hacking Positive Impressions.txt
+/Hacking Positive Impressions.md
 
 ### TODO: Metaphors of Main Street USA
 
@@ -9,4 +9,4 @@
 
 ### TODO: The Product versus How it's Delivered
 
-/Designing for Done.txt
+/Designing for Done.md
