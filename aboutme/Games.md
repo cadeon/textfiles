@@ -119,7 +119,63 @@ I've played a Saturn a few times, and I feel it was really ambitious and general
 I never had one growing up, never really had much interest in it. I briefly had one when I was collecting consoles, but I noticed I didn't play anything on it. I was really turned off by the amount of fog the system uses to keep the rendering load down. There are really good games on the N64, most of which have been ported to the 3DS/2DS. I've played a lot of them there.
 
 ## "Modern" Consoles
-This is all todo
+### Playstation 3
+
+The PS3 launched about the same time I started to really get into Formula 1. There was an F1 game as a launch title that looked amazing, especially the rain. That, combined with the unique hardware the PS3 had (which let me geek out in it), the promise of backwards-compatibility, and the promise of *a game console being able to run linux* - I was sold. The PS3 was the only console I was an "early adopter" of. I bought that sucker at launch. 
+
+I played a lot of games, but the PS3 also was the device of choice for netflix streaming, which was also showing up around that time. Unfortunately, the early, backwards-compatible PS3s were prone to "yellow light of death" due to overheating. That, combined with marathon netflix sessions, we melted a lot of PS3s. In general, Sony replaced them, but eventually the replacements were not the original, backwards-compatible units. 
+
+I cycled through many PS3 hardware units and did lots of things with them. I used the "Other OS" feature to run several different versions of linux. Once Other OS was removed, I participated in the class action suit and received like $20 or something for that. 
+
+#### Formula 1 Championship Edition
+
+F1 game, launch title, fun for me but not incredibly popular. I really enjoyed playing as a Super Aguri driver. 
+
+#### All the other games
+
+LittleBigPlanet, Ratchet and Clank, fl0w, and omg rock band
+
+#### Rockband
+
+I played a bunch of rockband (and guitar hero, previously) on the PS3. Got pretty much all the games, got lots of DLC, and thankfully the songs were exportable up to the PS4. 
+
+#### Gran Turismo 5 and 6
+
+5 was a new engine, so the game kinda lacked. Gran Turismo 6 was the best GT game ever. Gran Turismo 7 looks like it may be a return to form, but I don't think I'm going to be getting a PS5, so I'll skip that. 
+
+#### Remote play / PSP
+
+The PS3 introduced me to remote play, which interested me a lot. It didn't have a ton of support, because it required processing resources. The PS4 separated out the streaming / remoteplay functionality, so more is supported.
+
+### Playstation 4
+
+Naturally, it made sense to go to the PS4, especially when rockband 4 came out. Dove into rockband 4 hard. Most of the other games were, honestly, lackluster. Gran Turismo on the PS4, in particular, was a let-down. I do not think I'll be getting a PS5. 
+
+The uncharted series was fun, but it was on the PS3 first - and I didn't manage to finish any of the games. 
+
+#### Tetris Effect Review
+
+Omg. This game is amazing. I wrote my own review on it, which I will post here. 
+
+> It’s weird to say this, but Tetris Effect ( https://youtu.be/PFVL6t8IHE8 ) is the game that finally made me alright with owning a PlayStation 4. It’s so beyond good. 
+>
+> Usually people talk about some AAA-system-selling-multiplayer-online-action game when they justify owning a game system. They’d never admit that a simple “baby” game like Tetris is the thing.
+>
+> Don’t get me wrong, I have a couple of those “amazing” system exclusive games, too. And they’re nice. But I haven’t seen anything yet that brings everything together *right* like Tetris Effect does. The simplicity of Tetris just “goes with” sitting somewhere comfortable, away from a desk, and just enjoying a game.
+>
+> Games these days are too much like work. You’ve got to download patches and DLC  You’ve got to manage things. You have to remember button combinations. You have to deal with other people, because all the games are online now. One of the reasons I tend to like racing games is that they are simpler by default- you’re not going to be managing inventory why driving (usually). You just play the game. I try to get into modern games, but the commitment is just too high. Tetris Effect isn’t that; it’s just Tetris, it’s simple... but done with modern hardware and incredible atmosphere.
+>
+> I guess I shouldn’t be surprised, though. The thing that sold me on the PS3 was fl0w ( https://youtu.be/TwcYJdp4OjA ). 
+>
+> I think the complexity of modern games is a big part of why retro gaming is such a big thing. In pursuit of making the best, most engaging games possible, the industry as a whole lost their way. It turned into feature chasing instead of fun. Competition is everywhere in technology, especially in gaming. It was (and still is) super important for games to one-up the other guy and try and prove they are “worth” the money they ask for. 
+>
+> Being “worth it” actually kept me from buying Tetris Effect for a long time. I was interested in it when it was announced, but I didn’t buy it until it had been out for a couple years, and only then when it was on sale. I felt bad when I bought it, because “it’s just Tetris.” The industry has taught me to expect more, they’ve taught me that I need to focus on features and technology instead of fun. I’m glad I saw past that programming this time. 
+>
+> Sure, modern games are fun. Modern simulations (and simulation games) are amazing. I really enjoy those, too. But pick-up-and-play simplicity, especially combined with an abstract puzzle ( as opposed to no-room-for-imagination simulated environments ), can’t be beat. That’s Tetris Effect. Highly recommended. 
+
+### Nintendo Switch
+
+We ended up with three switches in the house. Everybody likes the switch. 
 
 ## "Modern" PC Games
 This is also todo
